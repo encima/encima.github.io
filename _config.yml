@@ -4,13 +4,14 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://encima.github.io" # the base hostname & protocol for your site
 permalink: /:title/
 avatar: https://avatars0.githubusercontent.com/u/517923?v=3&s=460
-about: http://7xof48.com1.z0.glb.clouddn.com/about.jpg
+about: 
 favicon: https://avatars0.githubusercontent.com/u/517923?v=3&s=460
 basecss: 
 # Theme specific configuration
 title: encima
 description: >
-    I am Chris Gwilliams (known online as encima). An English developer currently based in Switzerland
+    I am Chris Gwilliams (known online as encima). An English developer currently based in Switzerland.
+    Most of my interests are around quantified self and automation, but I am also  working with sensor networks and a mix of tools for API creation and consumption
 # Contact and social media links
 twitter_username: encima27
 github_username: encima
