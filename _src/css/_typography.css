@@ -18,7 +18,6 @@ em {
 a {
   background: transparent;
   color: var(--color1);
-  text-decoration: none;
   cursor: pointer;
   word-wrap: break-word;
 
@@ -26,7 +25,6 @@ a {
   &:focus,
   &:active {
     outline: 0;
-    text-decoration: none;
   }
 }
 
