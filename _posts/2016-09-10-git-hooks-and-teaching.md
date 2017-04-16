@@ -60,7 +60,7 @@ todogen -e .idea -f README.md -l
 `-f` allows you to specify an output. I chose README instead of the default TODO because it is auto rendered by most repo hosts
 `-l` is not necessary but it ensures that the output file is added to the commit.
 
-==== Running it
+#### Running it
 
 Now, just add some TODOs in to your source code files, commit your code and the README will be auto generated with each of the TODOs, much like this:
 
